@@ -1,13 +1,5 @@
 # Projeto de questões lógica em JavaScript
 
-Atualmente, serão feitas duas estapas de teste onde elas não precisam necessariamente ser concluídas, o que importa é a sua lógica e desenvolvimento.
-Então, mesmo se não conseguir desenvolver, tente elaborar o máximo possível a sua forma de resolução de como você faria essa tarefa, nem que seja somente descrevendo a resolução.
-
-# Setup
-
-Este projeto está configurado com o Create React App, então todas as configurações devem ser feitas dentro do `/src`.
-Após baixar os fontes pela primeira vez, instale os pacotes do node pelo comando `npm install` e, depois, para cada vez que for iniciar o projeto e começar a desenvolver, basta fazer um `npm start` no _root_ do projeto.
-
 # Lógica
 
 ## Questão 1: Encontrar o menor positivo possível
