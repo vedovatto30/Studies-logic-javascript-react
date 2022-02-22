@@ -1,4 +1,4 @@
-# Teste da BeatsCode
+# Projeto de questões lógica em JavaScript
 
 Atualmente, serão feitas duas estapas de teste onde elas não precisam necessariamente ser concluídas, o que importa é a sua lógica e desenvolvimento.
 Então, mesmo se não conseguir desenvolver, tente elaborar o máximo possível a sua forma de resolução de como você faria essa tarefa, nem que seja somente descrevendo a resolução.
@@ -58,10 +58,4 @@ O retorno da função deve ser:
 
 Exemplo: `A = [4, 5, A, 6, 2]`, `B = [3, 8, 7, Q, 4]`, a função deve retornar -1
 
-# Estilização e React
 
-Usando a api pública do `https://swapi.dev`, crie um site em react que mostre os filmes do Star Wars e suas informações dinamicamente.
-
-Sugestão: exibir uma lista dos filmes e, ao clicar no filme, exibe o elenco e/ou alguma outra informação disponível na api
-
-Será avaliado organização de código, solução e criatividade.
